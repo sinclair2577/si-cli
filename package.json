@@ -1,5 +1,5 @@
 {
-  "name": "si-cli",
+  "name": "sinc-cli",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -7,7 +7,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "si-cli": "./index.js"
+    "sinc-cli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
